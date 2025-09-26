@@ -1,0 +1,16 @@
+   {/*<div class="col-3">
+        <img
+          src="https://covers.openlibrary.org/b/isbn/<%= listItems[0].book_values %>-L.jpg"
+          alt="image to be generated"
+          class="images1"
+        />
+      </div>
+        <h2 class="book-title">
+          {" "}
+          {listItems[0].title} By {listItems[0].author}{" "}
+        </h2>
+        <p>Date Read: {listItems[0].start_date} </p>
+        <p class="rating"> Ratings:{listItems[0].rating} /10</p>
+        <p class="summary"> {listItems[0].summary} </p>
+      </div>
+    </div>*/}
